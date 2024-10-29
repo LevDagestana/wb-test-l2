@@ -1,0 +1,3 @@
+banana 4 yellow
+apple 12 red
+orange 5 orange
